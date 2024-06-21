@@ -6,6 +6,11 @@ For the Spanish version click [here](#Módulo-de-Deep-Learning)
 
 This repository contains my solution for the practical exercise of this module in which we were asked to implement various neural networks on an Airbnb DataSet, following the methodology and best practices explained throughout the Deep Learning module.
 
+MLP and CNN - Practica_Deep_Learning_Maximo_Lloris.ipynb
+Late Fusion Implementation - Practica_Deep_Learning_Late_Fusion.ipynb
+Early Fusion Implementation - Practica_Deep_Learning_Early_Fusion.ipynb
+
+
 ## Module Content
 
 ### 1. Introduction to Deep Learning and TensorFlow
@@ -57,7 +62,11 @@ Para versión en inglés haz clic [aquí](#Deep-Learning-Module)
 
 ### **Contenido del repositorio**
 
-Este repositorio contiene mi solución para la práctica de este módulo en la cual se nos pedía implementar diverasas redes neuronales sobre un DataSet de Airbnb, siguiendo la metodología y buenas prácticas explicadas a lo largo del módulo de Deep Learning
+Este repositorio contiene mi solución para la práctica de este módulo en la cual se nos pedía implementar diverasas redes neuronales sobre un DataSet de Airbnb, siguiendo la metodología y buenas prácticas explicadas a lo largo del módulo de Deep Learning.
+
+Red MLP y redes CNN - Practica_Deep_Learning_Maximo_Lloris.ipynb
+Implementacion de Late Fusion - Practica_Deep_Learning_Late_Fusion.ipynb
+Implementación de Early Fusion - Practica_Deep_Learning_Early_Fusion.ipynb
 
 
 ## Contenido del módulo.
